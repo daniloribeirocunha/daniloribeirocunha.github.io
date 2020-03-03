@@ -1,0 +1,35 @@
+.titleItem {
+    color: #00BB27;
+}
+
+body {
+    font-family: arial, verdana;
+    text-align: center;
+    color: #555;
+    background-color: #EEE;
+}
+
+.box0 {
+    border-bottom: 20px solid #EEE;
+    border-left: 20px solid #EEE;
+    background-color: #EEE;
+}
+
+.box1 {
+    border-top: 20px solid #EEE;
+    border-right: 20px solid #EEE;
+    background-color: #fff;
+    padding: 20px;
+}
+
+h4 {
+    font-size: 1.25em;
+}
+
+h5 {
+    font-size: 1em;
+}
+
+h6 {
+    font-size: 0.75em;
+}
